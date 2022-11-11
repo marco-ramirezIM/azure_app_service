@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ISA2-DEV'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0084C3660E894649A7A21D998A7B036B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F32E6875AD8D4C2A88E2E4C2922C5E01 }}
